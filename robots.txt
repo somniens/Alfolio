@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://somniens.github.io/al-folio/sitemap.xml
